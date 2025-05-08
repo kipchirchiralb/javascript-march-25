@@ -10,7 +10,7 @@ do {
 // initial value , iterator(increasing or decreasing), condition(at some point it time, the loop will end)
 const fs = require("fs");
 
-for (let index = 4000; index < 20000; index++) {
+for (let index = 4000; index < 2000; index++) {
   console.log("Code insid the loop block {}");
   //   fs.writeFileSync(
   //     `reportcard${index}.txt`,
