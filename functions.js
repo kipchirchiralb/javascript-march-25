@@ -35,3 +35,6 @@ add(20, 30); // Output: 50
 add(100, 200); // Output: 300
 
 //  wHAT IS THE RETURN STATEMENT IN A FUNCTION?
+
+
+// what is algorithm?
