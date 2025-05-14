@@ -30,4 +30,4 @@ console.log(result);
 
 const sortResult = marks.sort();
 console.log(sortResult);
-// sort() -- sorts the array, returns the sorted array. Sort changes the original array. 
+// sort() -- sorts the array, returns the sorted array. Sort changes the original array.
